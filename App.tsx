@@ -10,7 +10,7 @@ const App = () => {
         provider={PROVIDER_GOOGLE}  // Use PROVIDER_GOOGLE constant
         showsUserLocation={true}
         region={{
-          latitude: 37.78825,
+          latitude: 37.78825,  
           longitude: -122.4324,
           latitudeDelta: 0.0922,
           longitudeDelta: 0.0421,
