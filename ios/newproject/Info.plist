@@ -15,6 +15,8 @@
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location for...</string>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>$(MARKETING_VERSION)</string>
